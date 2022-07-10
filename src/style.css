@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    font-family:"sans-serif";
+    color: black;
+}
+header {
+    font-size: 75px;
+}
+p {
+    font-size: 25px;
+}
