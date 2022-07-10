@@ -1,5 +1,5 @@
 # Alpha-Flight-Checker
-An <i>almost</i> CRUD, (more like CRD) pseudo flight checker website using MySQL databases, PHP, and HTML/CSS
+An <i>almost</i> CRUD, (more like CRD) pseudo flight checker website using MySQL databases, PHP, and HTML/CSS.
 
 To open via your localhost:
 
